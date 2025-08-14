@@ -1,0 +1,19 @@
+.titulo{
+    margin: 10px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+.paragrafo{
+    font-size: 16px;
+    margin: 10px;
+    padding: 10px;
+}
+
+img{
+    width: 300px;
+    
+}
